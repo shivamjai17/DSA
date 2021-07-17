@@ -1,3 +1,4 @@
+#Linear Search Programe
 arr=[10,20,80,30,60,50,110,100]
 print('Enter number to be search')
 x=int(input())
